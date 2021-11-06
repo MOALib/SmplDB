@@ -1,0 +1,27 @@
+{
+  "name": "@MXPSQL/smpldb",
+  "version": "1.0.0",
+  "description": "Simple Collection and key pair database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node sample.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MXP2095onetechguy/SmplDB.git"
+  },
+  "keywords": [
+    "Database",
+    "TOML"
+  ],
+  "author": "MXPSQL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MXP2095onetechguy/SmplDB/issues"
+  },
+  "homepage": "https://github.com/MXP2095onetechguy/SmplDB#readme",
+  "dependencies": {
+    "@ltd/j-toml": "^1.23.0"
+  }
+}

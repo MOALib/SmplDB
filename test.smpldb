@@ -1,0 +1,20 @@
+
+[coll] # This thing was made with SmplDB, MXPSQL wrote it
+
+db = 'SmplDB'
+
+[collection]
+
+key = 'value'
+anotherkey = 'a.value'
+
+[collection2]
+
+key2 = 'value2'
+anotherkey2 = 'a.out'
+
+[collection3]
+
+aout = '0.5805933585601475'
+ain = '21'
+
